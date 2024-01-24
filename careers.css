@@ -1,0 +1,4 @@
+.bg-lame-yelow {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 187 42 / var(--tw-bg-opacity)) !important;
+}
